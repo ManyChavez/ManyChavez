@@ -3,3 +3,4 @@
 0831. 📚 docs: clarify environment setup
 0664. ✅ test: add unit test for quiz service
 0626. 🎨 style: standardize quote style
+0653. 🐛 fix: prevent crash on empty input
