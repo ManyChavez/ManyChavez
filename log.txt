@@ -15,3 +15,4 @@
 0851. ✅ test: mock database connection in test suite
 0181. ♻️ chore: add GitHub actions badge
 0046. 🎨 style: rename variables for clarity
+0827. 🚀 perf: optimize database query for quiz results
