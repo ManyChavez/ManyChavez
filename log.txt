@@ -18,3 +18,4 @@
 0827. 🚀 perf: optimize database query for quiz results
 0711. 🐛 fix: fix broken CSS in mobile view
 0552. 🐛 fix: fix null pointer exception on login
+0009. ✨ feat: enable dark mode toggle
