@@ -19,3 +19,4 @@
 0711. 🐛 fix: fix broken CSS in mobile view
 0552. 🐛 fix: fix null pointer exception on login
 0009. ✨ feat: enable dark mode toggle
+0811. 🎨 style: reformat files with black
