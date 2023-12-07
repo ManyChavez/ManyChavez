@@ -21,3 +21,4 @@
 0009. ✨ feat: enable dark mode toggle
 0811. 🎨 style: reformat files with black
 0091. ✨ feat: add user authentication
+0390. 🎨 style: standardize quote style
