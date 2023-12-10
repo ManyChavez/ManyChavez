@@ -22,3 +22,4 @@
 0811. 🎨 style: reformat files with black
 0091. ✨ feat: add user authentication
 0390. 🎨 style: standardize quote style
+0959. 🐛 fix: fix null pointer exception on login
