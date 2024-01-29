@@ -31,3 +31,4 @@
 0801. ✨ feat: enable dark mode toggle
 0992. ♻️ chore: clean up unused files
 0996. ✅ test: test user registration edge cases
+0106. 🎨 style: reformat files with black
