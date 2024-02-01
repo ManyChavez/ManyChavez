@@ -32,3 +32,4 @@
 0992. ♻️ chore: clean up unused files
 0996. ✅ test: test user registration edge cases
 0106. 🎨 style: reformat files with black
+0152. ✨ feat: add user authentication
