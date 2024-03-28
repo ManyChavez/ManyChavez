@@ -43,3 +43,4 @@
 0903. ✅ test: mock database connection in test suite
 0260. ✨ feat: create admin dashboard
 0518. ✨ feat: support email verification
+0889. 🚀 perf: lazy-load components
