@@ -51,3 +51,4 @@
 0917. ✅ test: add integration test for /submit endpoint
 0993. ✨ feat: implement quiz timer feature
 0444. ✅ test: add unit test for quiz service
+0738. 🐛 fix: prevent crash on empty input
