@@ -53,3 +53,4 @@
 0444. ✅ test: add unit test for quiz service
 0738. 🐛 fix: prevent crash on empty input
 0741. 🎨 style: apply consistent indentation
+0688. 🚀 perf: reduce image load time
