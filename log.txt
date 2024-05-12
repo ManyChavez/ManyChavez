@@ -61,3 +61,4 @@
 0392. 🎨 style: remove trailing whitespace
 0272. 🔧 refactor: remove redundant code blocks
 0021. ✨ feat: support email verification
+0580. ♻️ chore: bump dependencies
