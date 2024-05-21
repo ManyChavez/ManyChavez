@@ -65,3 +65,4 @@
 0145. 📚 docs: improve code comments in utils
 0360. ✨ feat: add export to CSV option
 0957. 🐛 fix: fix null pointer exception on login
+0354. 📚 docs: add API usage examples
