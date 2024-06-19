@@ -70,3 +70,4 @@
 0761. ✅ test: add unit test for quiz service
 0001. 🚀 perf: cache repeated calculations
 0232. 🎨 style: apply consistent indentation
+0013. ✅ test: increase coverage on auth module
