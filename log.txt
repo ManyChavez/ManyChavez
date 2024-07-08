@@ -75,3 +75,4 @@
 0323. 📚 docs: clarify environment setup
 0140. 🐛 fix: handle 500 error in quiz API
 0536. ✨ feat: add user authentication
+0517. ✅ test: mock database connection in test suite
