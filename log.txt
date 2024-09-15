@@ -90,3 +90,4 @@
 0821. ✅ test: add integration test for /submit endpoint
 0395. 📚 docs: write FAQ section
 0656. 🎨 style: apply consistent indentation
+0531. 🐛 fix: prevent crash on empty input
