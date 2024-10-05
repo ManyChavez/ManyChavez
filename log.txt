@@ -93,3 +93,4 @@
 0531. 🐛 fix: prevent crash on empty input
 0122. ✨ feat: support email verification
 0007. 🎨 style: rename variables for clarity
+0351. ✨ feat: add export to CSV option
