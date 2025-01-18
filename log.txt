@@ -113,3 +113,4 @@
 0161. ✨ feat: create admin dashboard
 0040. 🔧 refactor: clean up auth middleware
 0978. 🐛 fix: prevent crash on empty input
+0434. 📚 docs: document token refresh logic
