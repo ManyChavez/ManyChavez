@@ -114,3 +114,4 @@
 0040. 🔧 refactor: clean up auth middleware
 0978. 🐛 fix: prevent crash on empty input
 0434. 📚 docs: document token refresh logic
+0663. 🚀 perf: reduce image load time
