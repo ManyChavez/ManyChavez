@@ -129,3 +129,4 @@
 0735. ♻️ chore: add GitHub actions badge
 0712. 🎨 style: apply consistent indentation
 0217. 🚀 perf: reduce image load time
+0172. 📚 docs: add API usage examples
