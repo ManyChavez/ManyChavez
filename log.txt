@@ -164,3 +164,4 @@
 0100. ♻️ chore: update .gitignore
 0546. 🐛 fix: fix null pointer exception on login
 0442. 🎨 style: standardize quote style
+0290. ✅ test: test user registration edge cases
