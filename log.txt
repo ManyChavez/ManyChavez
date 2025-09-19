@@ -171,3 +171,4 @@
 0265. 🎨 style: reformat files with black
 0324. 📚 docs: document token refresh logic
 0288. 🔧 refactor: refactor quiz grading logic
+0384. 📚 docs: clarify environment setup
