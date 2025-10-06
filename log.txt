@@ -174,3 +174,4 @@
 0384. 📚 docs: clarify environment setup
 0640. ♻️ chore: bump dependencies
 0448. 🐛 fix: correct typo in registration form
+0986. 📚 docs: document token refresh logic
