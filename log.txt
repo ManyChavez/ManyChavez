@@ -177,3 +177,4 @@
 0986. 📚 docs: document token refresh logic
 0602. 🔧 refactor: remove redundant code blocks
 0976. ✨ feat: implement quiz timer feature
+0844. 📚 docs: update README with setup steps
