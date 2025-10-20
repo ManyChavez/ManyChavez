@@ -179,3 +179,4 @@
 0976. ✨ feat: implement quiz timer feature
 0844. 📚 docs: update README with setup steps
 0370. 🚀 perf: reduce image load time
+0460. 📚 docs: write FAQ section
